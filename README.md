@@ -1,24 +1,17 @@
-<!--
-**WardVerc/WardVerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### WardVerc 🏄‍♂️ 🧗‍♂️ 🏂 
 
-Here are some ideas to get you started:
+<details>
+ <summary><h3>👨‍💻 Ward's Coding Journey</h3></summary>
+   I started my coding journey while playing FIFA and trading players, trying to profit of each sale. When you sell a player, you lose 5% of the sale, so I had to make sure I made more profit than 5%. I was tired of calculating it each time. So I wondered if I could make a small program that could do this. 1 bookread 'Head First Java' and a few weeks later I had my program that solved my problem. Since then I was hooked, excited about the possibilities of coding. I followed a course on freecodecamp.org and learned responsive web design (HTML, CSS). I quickly tried to get a job in IT. After a lot of emails, 1 company saw my potential and hired me as a software tester. I knew I was in the right sector. I decided to do a part of a bachelor's degree program, which thought me the basics of programming. After almost 2 years, graduating from the education, the company I worked for as a tester gave me the opportunity to work as a frontend developer. I love each day working as a developer, and I'm still as eager to learn as I was trying to make my calculator program. I don't have the feeling I HAVE to go to work, I'm grateful I get the chance to learn something new everyday. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </details>
 
-## Hi there 👋
-
+  #
+  
 - 🔭 I’m currently working on a terminal portfolio website
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on fun React or Python projects
-- 💬 Ask me about wakeboarding
+- 💬 Ask me about wakeboarding, climbing or chess
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ward-vercruyssen-05a089177/" target="_blank">WardVerc's Linked In</a>
 
 ## 🧰 Languages and Tools
@@ -37,5 +30,4 @@ Here are some ideas to get you started:
 
 #
 
-
-![Ward's github stats](https://github-readme-stats.vercel.app/api?username=WardVerc&show_icons=true&hide=[%22issues%22])
+![Ward's github stats](https://github-readme-stats.vercel.app/api?username=WardVerc&show_icons=true&theme=gruvbox)
