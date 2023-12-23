@@ -9,7 +9,7 @@
 
   #
   
-- 🔭 I’m currently working on a terminal portfolio website
+- 🔭 I’m currently working on a <a href="https://github.com/WardVerc/terminal-portfolio" target="_blank">terminal portfolio website</a>
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on fun React or Python projects
 - 💬 Ask me about wakeboarding, climbing or chess
