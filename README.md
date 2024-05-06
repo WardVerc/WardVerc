@@ -1,4 +1,4 @@
-### WardVerc 🏄‍♂️ 🧗‍♂️ 🏂 
+### WardVerc 🏄🏻 🧗‍♂️ 🏂 
 
 <details>
  <summary><h3>👨‍💻 Ward's Coding Journey</h3></summary>
