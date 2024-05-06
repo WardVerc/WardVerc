@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working on a <a href="https://github.com/WardVerc/flappybird/" target="_blank">Godot game - Flappy bird 🐥!</a>
 - 🌱 I’m currently learning Python and <a href="https://godotengine.org/" target="_blank">Godot's game engine</a>
-- 👯 I’m looking to collaborate on fun React or Python projects
+- 👯 I’m looking to collaborate on fun Python or Godot projects
 - 💬 Ask me about wakeboarding, climbing or chess
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ward-vercruyssen-05a089177/" target="_blank">WardVerc's Linked In</a>
 
