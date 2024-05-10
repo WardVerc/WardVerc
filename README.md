@@ -5,7 +5,7 @@ Meet Ward (30 years old), the digital adventurer who lives between the lines of 
 <details>
  <summary><h3>👨‍💻 Ward's Coding Journey</h3></summary>
    I began my coding journey while trading in FIFA players, aiming to profit from each transaction. Given the 5% loss on each sale, I needed to earn more than this percentage, which soon became tiresome to calculate repeatedly. This challenge sparked the idea of creating a program to automate the calculations. After diving into "Head First Java," I developed a tool within a few weeks that calculated my profits. This superpower called 'programming' ignited my passion for coding's vast possibilities.
-   \n
+
 Motivated, I completed a course on freecodecamp.org in responsive web design, covering HTML and CSS. Eager to enter the IT field, I sent numerous applications and eventually landed a role as a software tester with a company that recognized my potential. Working in this position confirmed I was on the right career path. In 2020, I enrolled in a bachelor’s degree program that covered the fundamentals of programming. After two years as a tester and completing my studies, the company promoted me to a frontend developer role.
 
 Over the next three years, I worked as a frontend developer at two different companies before transitioning to backend development with Python. I love each day as a developer as it is fulfilling, and I continue to enjoy building exciting projects in my free time. 👾
