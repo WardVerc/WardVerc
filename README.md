@@ -8,7 +8,8 @@ Meet Ward (30 years old), the digital adventurer who lives between the lines of 
 <br />
 <br />
 Motivated, I completed a course on freecodecamp.org in responsive web design, covering HTML and CSS. Eager to enter the IT field, I sent numerous applications and eventually landed a role as a software tester with a company that recognized my potential. Working in this position confirmed I was on the right career path. In 2020, I enrolled in a bachelor’s degree program that covered the fundamentals of programming. After two years as a tester and completing my studies, the company promoted me to a frontend developer role.
-
+<br />
+<br />
 Over the next three years, I worked as a frontend developer at two different companies before transitioning to backend development with Python. I love each day as a developer as it is fulfilling, and I continue to enjoy building exciting projects in my free time. 👾
 
   </details>
