@@ -4,8 +4,11 @@ Meet Ward (30 years old), the digital adventurer who lives between the lines of 
 
 <details>
  <summary><h3>👨‍💻 Ward's Coding Journey</h3></summary>
-   I started my coding journey while playing FIFA and trading players, trying to profit of each sale. When you sell a player, you lose 5% of the sale, so I had to make sure I made more profit than 5%. I was tired of calculating it each time. So I wondered if I could make a small program that could do this. 1 bookread 'Head First Java' and a few weeks later I had my program that solved my problem. Since then I was hooked, excited about the possibilities of coding. I followed a course on freecodecamp.org and learned responsive web design (HTML, CSS). I quickly tried to get a job in IT. After a lot of emails, 1 company saw my potential and hired me as a software tester. I knew I was in the right sector. I decided to do a part of a bachelor's degree program in 2020, which taught me the basics of programming. After 2 years working as a tester, I graduated from the education and the company I worked for gave me the opportunity to work as a frontend developer. Worked +3 years in 2 different companies as a frontend developer, then I switched to backend (Python).
- I'm loving each day working as a developer, and building fun projects in my spare time 👾
+   I began my coding journey while trading in FIFA players, aiming to profit from each transaction. Given the 5% loss on each sale, I needed to earn more than this percentage, which soon became tiresome to calculate repeatedly. This challenge sparked the idea of creating a program to automate the calculations. After diving into "Head First Java," I developed a tool within a few weeks that calculated my profits. This superpower called 'programming' ignited my passion for coding's vast possibilities.
+
+Motivated, I completed a course on freecodecamp.org in responsive web design, covering HTML and CSS. Eager to enter the IT field, I sent numerous applications and eventually landed a role as a software tester with a company that recognized my potential. Working in this position confirmed I was on the right career path. In 2020, I enrolled in a bachelor’s degree program that covered the fundamentals of programming. After two years as a tester and completing my studies, the company promoted me to a frontend developer role.
+
+Over the next three years, I worked as a frontend developer at two different companies before transitioning to backend development with Python. I love each day as a developer as it is fulfilling, and I continue to enjoy building exciting projects in my free time. 👾
 
   </details>
 
