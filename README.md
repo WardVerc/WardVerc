@@ -20,6 +20,13 @@ Over the next three years, I worked as a frontend developer at two different com
 - 🌱 I’m currently learning Python and <a href="https://godotengine.org/" target="_blank">Godot's game engine</a>
 - 👯 I’m looking to collaborate on fun Python or Godot projects
 - 💬 Ask me about wakeboarding, climbing or chess
+- 💼 Work GitHub Profiles:
+  - [MobilityPlus](https://github.com/WardVercMobilityPlus) (March 2024 - Present)
+    - Backend: Python, Odoo, PostgreSQL
+  - [Studio Hyperdrive](https://github.com/WardVerc1) (September 2022 - March 2024)
+    - Frontend: React, Redux, TypeScript, NodeJS, Git, Sass, Jest 
+  - TVH (did not use GitHub) (March 2021 - September 2022)
+    - Frontend: React, Redux, Sass, TypeScript, Git, Jest
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ward-vercruyssen-05a089177/" target="_blank">WardVerc's Linked In</a>
 
 ## 🧰 Languages and Tools
