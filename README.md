@@ -3,7 +3,7 @@
 Meet Ward (30 years old), the digital adventurer who lives between the lines of his code. When he's not busy developing new software, you'll find him up high, chasing the next adrenaline rush through wakeboarding or climbing. When the adrenaline subsides, his mind remains active, enjoying building his latest projects, whether it's a website or an innovative game in his spare time.
 
 <details>
- <summary><h3>👨‍💻 Ward's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Ward's Coding Journey (click to expand)</h3></summary>
    I began my coding journey while trading in FIFA players, aiming to profit from each transaction. Given the 5% loss on each sale, I needed to earn more than this percentage, which soon became tiresome to calculate repeatedly. This challenge sparked the idea of creating a program to automate the calculations. After diving into "Head First Java," I developed a tool within a few weeks that calculated my profits. This superpower called 'programming' ignited my passion for coding's vast possibilities.
 <br />
 <br />
@@ -15,6 +15,8 @@ Over the next three years, I worked as a frontend developer at two different com
   </details>
 
   #
+
+  ### 🤙 Fun facts
   
 - 🔭 I’m currently working on a <a href="https://github.com/WardVerc/flappybird/" target="_blank">Godot game - Flappy bird 🐥!</a>
 - 🌱 I’m currently learning Python and <a href="https://godotengine.org/" target="_blank">Godot's game engine</a>
@@ -28,9 +30,9 @@ Over the next three years, I worked as a frontend developer at two different com
   - TVH (did not use GitHub) (March 2021 - September 2022)
     - Frontend: React, Redux, Sass, TypeScript, Git, Jest
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ward-vercruyssen-05a089177/" target="_blank">WardVerc's Linked In</a>
+#
 
-## 🧰 Languages and Tools
-
+### 🧰 Languages and Tools
 <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
