@@ -17,11 +17,7 @@ Over the next three years, I worked as a frontend developer at two different com
   #
 
   ### 🤙 Fun facts
-  
-- 🔭 I’m currently working on a <a href="https://github.com/WardVerc/flappybird/" target="_blank">Godot game - Flappy bird 🐥!</a>
-- 🌱 I’m currently learning Python and <a href="https://godotengine.org/" target="_blank">Godot's game engine</a>
-- 👯 I’m looking to collaborate on fun Python or Godot projects
-- 💬 Ask me about wakeboarding, climbing or chess
+
 - 💼 Work GitHub Profiles:
   - [MobilityPlus](https://github.com/WardVercMobilityPlus) (March 2024 - Present)
     - Backend: Python, Odoo, PostgreSQL
@@ -29,13 +25,18 @@ Over the next three years, I worked as a frontend developer at two different com
     - Frontend: React, Redux, TypeScript, NodeJS, Git, Sass, Jest 
   - TVH (did not use GitHub) (March 2021 - September 2022)
     - Frontend: React, Redux, Sass, TypeScript, Git, Jest
+
+- 🔭 I’m currently working on a <a href="https://github.com/WardVerc/flappybird/" target="_blank">Godot game - Flappy bird 🐥!</a>
+- 🌱 I’m currently learning <a href="https://godotengine.org/" target="_blank">Godot's game engine</a>
+- 👯 I’m looking to collaborate on fun React (Native), Python or Godot projects
+- 💬 Ask me about wakeboarding, climbing or chess
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ward-vercruyssen-05a089177/" target="_blank">WardVerc's Linked In</a>
 #
 
 ### 🧰 Languages and Tools
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
