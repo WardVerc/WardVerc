@@ -24,7 +24,7 @@ Over the next three years, I worked as a frontend developer at two different com
   - [Studio Hyperdrive](https://github.com/WardVerc1) (September 2022 - March 2024)
     - Frontend: React, Redux, TypeScript, NodeJS, Git, Sass, Jest 
   - TVH (did not use GitHub) (March 2021 - September 2022)
-    - Frontend: React, Redux, Sass, TypeScript, Git, Jest
+    - Frontend: React, Redux, TypeScript, Git, Sass, Jest
 
 - 🔭 I’m currently working on a <a href="https://github.com/WardVerc/flappybird/" target="_blank">Godot game - Flappy bird 🐥!</a>
 - 🌱 I’m currently learning <a href="https://godotengine.org/" target="_blank">Godot's game engine</a>
