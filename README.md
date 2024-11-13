@@ -1,6 +1,6 @@
 ### WardVerc 🏄🏻 🧗‍♂️ 🏂 
 
-Meet Ward (30 years old), the digital adventurer who lives between the lines of his code. When he's not busy developing new software, you'll find him up high, chasing the next adrenaline rush through wakeboarding or climbing. When the adrenaline subsides, his mind remains active, enjoying building his latest projects, whether it's a website or an innovative game in his spare time.
+Meet Ward (30 years old), the digital adventurer who lives between the lines of his code. When he's not busy developing new software, you'll find him up high, chasing the next adrenaline rush through wakeboarding or climbing. When the adrenaline subsides, his mind remains active, enjoying building his latest projects, whether it's a website or an innovative Raspberry Pi project in his spare time.
 
 <details>
  <summary><h3>👨‍💻 Ward's Coding Journey (click to expand)</h3></summary>
@@ -10,7 +10,7 @@ Meet Ward (30 years old), the digital adventurer who lives between the lines of 
 Motivated, I completed a course on freecodecamp.org in responsive web design, covering HTML and CSS. Eager to enter the IT field, I sent numerous applications and eventually landed a role as a software tester with a company that recognized my potential. Working in this position confirmed I was on the right career path, so I enrolled in a bachelor’s degree program that covered the fundamentals of programming. After two years as a tester and completing my studies, the company promoted me to a frontend developer role in 2021.
 <br />
 <br />
-Over the next three years, I worked as a frontend developer at two different companies before transitioning to backend development with Python. I love each day as a developer as it is fulfilling, and I continue to enjoy building exciting projects in my free time. 👾
+Over the next three years, I worked as a frontend developer at two different companies before transitioning to backend development with Python. Now I switched back to frontend development as it's more fulfilling for me than backend development. I really love each day working as a developer as it is fulfilling, and I continue to enjoy building exciting projects in my free time. 👾
 
   </details>
 
@@ -26,9 +26,9 @@ Over the next three years, I worked as a frontend developer at two different com
   - TVH (did not use GitHub) (March 2021 - September 2022)
     - Frontend: React, Redux, TypeScript, Git, Sass, Jest
 
-- 🔭 I’m currently working on a <a href="https://github.com/WardVerc/flappybird/" target="_blank">Godot game - Flappy bird 🐥!</a>
-- 🌱 I’m currently learning <a href="https://godotengine.org/" target="_blank">Godot's game engine</a>
-- 👯 I’m looking to collaborate on fun React (Native), Python or Godot projects
+- 🔭 I’m currently working on a <a href="https://github.com/WardVerc/buildmasters-raspberry-pi/" target="_blank">Raspberry Pi - camera project!</a>
+- 🌱 I’m currently learning <a href="https://www.raspberrypi.com/documentation/computers/getting-started.html" target="_blank">Raspberry Pi engineering</a>
+- 👯 I’m looking to collaborate on fun React (Native), Python or Raspberry Pi projects
 - 💬 Ask me about wakeboarding, climbing or chess
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ward-vercruyssen-05a089177/" target="_blank">WardVerc's Linked In</a>
 #
