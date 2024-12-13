@@ -60,4 +60,4 @@ I really love each day working as a developer as it is fulfilling, and I continu
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=WardVerc&label=Views&color=blue&style=plastic" alt="WardVerc" />
+<img src="https://komarev.com/ghpvc/?username=WardVerc&label=Profile&nbsp;views&color=blue&style=plastic" alt="WardVerc" />
