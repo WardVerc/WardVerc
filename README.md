@@ -57,3 +57,7 @@ I really love each day working as a developer as it is fulfilling, and I continu
 #
 
 ![Ward's github stats](https://github-readme-stats.vercel.app/api?username=WardVerc&show_icons=true&theme=gruvbox)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=WardVerc&label=Views&color=blue&style=plastic" alt="WardVerc" />
