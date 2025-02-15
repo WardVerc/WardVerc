@@ -20,7 +20,7 @@ I really love each day working as a developer as it is fulfilling, and I continu
 
   ### 🤙 Fun facts
 
-- 💼 Work GitHub Profiles:
+💼 Work GitHub Profiles:
   - [MobilityPlus](https://github.com/WardVercMobilityPlus) (March 2024 - Present)
     - Frontend: React, TypeScript, Apollo GraphQL, Tailwind CSS, Jest, Git
     - Backend: Python, Odoo, PostgreSQL, Azure, Git
@@ -29,11 +29,11 @@ I really love each day working as a developer as it is fulfilling, and I continu
   - TVH (did not use GitHub) (March 2021 - September 2022)
     - Frontend: React, Redux, TypeScript, Git, Sass, Jest
 
-- 🔭 I’m currently working on a <a href="https://github.com/WardVerc/buildmasters-raspberry-pi/" target="_blank">Raspberry Pi - camera project!</a>
-- 🌱 I’m currently learning <a href="https://www.raspberrypi.com/documentation/computers/getting-started.html" target="_blank">Raspberry Pi engineering</a>
-- 👯 I’m looking to collaborate on fun React (Native), Python or Raspberry Pi projects
-- 💬 Ask me about wakeboarding, climbing or chess
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ward-vercruyssen-05a089177/" target="_blank">WardVerc's Linked In</a>
+🔭 I’m currently working on an <a href="https://github.com/WardVerc" target="_blank">interactive personal portfolio!</a><br />
+🌱 I’m currently learning <a href="https://www.vives.be/nl/technology/digitale-vormgeving" target="_blank">UI/UX design</a><br />
+👯 I’m looking to collaborate on fun React (Native), Python or Raspberry Pi projects<br />
+💬 Ask me about wakeboarding, climbing or chess<br />
+📫 How to reach me: <a href="https://www.linkedin.com/in/ward-vercruyssen-05a089177/" target="_blank">WardVerc's Linked In</a><br />
 #
 
 ### 🧰 Languages and Tools
