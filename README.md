@@ -30,7 +30,7 @@ I really love each day working as a developer as it is fulfilling, and I continu
     - Frontend: React, Redux, TypeScript, Git, Sass, Jest
 
 🔭 I’m currently working on an <a href="https://github.com/WardVerc" target="_blank">interactive personal portfolio!</a><br />
-🌱 I’m currently learning <a href="https://www.vives.be/nl/technology/digitale-vormgeving" target="_blank">UI/UX design</a><br />
+🌱 I’m currently learning <a href="https://en.wikipedia.org/wiki/User_experience_design" target="_blank">UI/UX design</a><br />
 👯 I’m looking to collaborate on fun React (Native), Python or Raspberry Pi projects<br />
 💬 Ask me about wakeboarding, climbing or chess<br />
 📫 How to reach me: <a href="https://www.linkedin.com/in/ward-vercruyssen-05a089177/" target="_blank">WardVerc's Linked In</a><br />
