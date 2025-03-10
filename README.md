@@ -1,6 +1,6 @@
 ### WardVerc 🏄🏻 🧗‍♂️ 🏂 
 
-Meet Ward (30 years old), the digital adventurer who lives between the lines of his code. When he's not busy developing new software, you'll find him up high, chasing the next adrenaline rush through wakeboarding or climbing. When the adrenaline subsides, his mind remains active, enjoying building his latest projects, whether it's a website or an innovative Raspberry Pi project in his spare time.
+Meet Ward (31 years old), the digital adventurer who lives between the lines of his code. When he's not busy developing new software, you'll find him up high, chasing the next adrenaline rush through wakeboarding or climbing. When the adrenaline subsides, his mind remains active, enjoying building his latest projects, whether it's a website or an innovative Raspberry Pi project in his spare time.
 
 <details>
  <summary><h3>👨‍💻 Ward's Coding Journey (click to expand)</h3></summary>
@@ -52,12 +52,9 @@ I really love each day working as a developer as it is fulfilling, and I continu
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+
 <br />
 
 #
-
-![Ward's github stats](https://github-readme-stats.vercel.app/api?username=WardVerc&show_icons=true&theme=gruvbox)
-
-<br />
 
 <img src="https://komarev.com/ghpvc/?username=WardVerc&label=Profile&nbsp;views&color=blue&style=plastic" alt="WardVerc" />
