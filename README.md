@@ -1,6 +1,6 @@
 ### WardVerc 🏄🏻 🧗‍♂️ 🏂 
 
-Meet Ward (31 years old), the digital adventurer who lives between the lines of his code. When he's not busy developing new software, you'll find him up high, chasing the next adrenaline rush through wakeboarding or climbing. When the adrenaline subsides, his mind remains active, enjoying building his latest projects, whether it's a website or an innovative Raspberry Pi project in his spare time.
+Meet Ward (31 years old), the digital adventurer who lives between the lines of his code. When he's not busy developing new software, you'll find him up high, chasing the next adrenaline rush through wakeboarding or climbing. When the adrenaline subsides, his mind remains active, enjoying playing chess or building his latest projects, whether it's an app or an innovative Raspberry Pi project in his spare time.
 
 <details>
  <summary><h3>👨‍💻 Ward's Coding Journey (click to expand)</h3></summary>
