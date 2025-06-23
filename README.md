@@ -28,7 +28,7 @@ I really love each day working as a developer as it is fulfilling, and I continu
     - Backend: Python, Odoo, PostgreSQL, Azure, Git
   - [Studio Hyperdrive](https://github.com/WardVerc1) (September 2022 - March 2024)
     - Frontend: React, Redux, TypeScript, NodeJS, Git, Sass, Jest 
-  - TVH (did not use GitHub) (March 2021 - September 2022)
+  - TVH (March 2021 - September 2022)
     - Frontend: React, Redux, TypeScript, Git, Sass, Jest
 
 🔭 I’m currently working on a Wakeboard Trickbook app! <br />
