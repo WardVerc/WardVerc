@@ -31,8 +31,8 @@ I really love each day working as a developer as it is fulfilling, and I continu
   - TVH (March 2021 - September 2022)
     - Frontend: React, Redux, TypeScript, Git, Sass, Jest
 
-🔭 I’m currently working on a Wakeboard Trickbook app! <br />
-👯 I’m looking to collaborate on fun React (Native), Python or Raspberry Pi projects<br />
+🔭 I’m currently setting up an old laptop with Arch linux! <br />
+👯 I’m looking to collaborate on fun React (Native), NodeJS or Raspberry Pi projects<br />
 💬 Ask me about wakeboarding, climbing or chess<br />
 📫 How to reach me: <a href="https://www.linkedin.com/in/ward-vercruyssen-05a089177/" target="_blank">WardVerc's Linked In</a><br />
 #
