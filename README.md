@@ -23,7 +23,7 @@ I really love each day working as a developer as it is fulfilling, and I continu
   ### 🤙 Fun facts
 
 💼 Work GitHub Profiles:
-  - [MobilityPlus](https://github.com/WardVercMobilityPlus) (March 2024 - Present)
+  - [MobilityPlus](https://github.com/WardVercMobilityPlus) (March 2024 - January 2026)
     - Frontend: React, React-Native, TypeScript, Apollo GraphQL, Tailwind CSS, Zustand, Jest, Vitest, Git
     - Backend: Python, Odoo, PostgreSQL, Azure, Git
   - [Studio Hyperdrive](https://github.com/WardVerc1) (September 2022 - March 2024)
